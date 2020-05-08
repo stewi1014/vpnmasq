@@ -1,0 +1,8 @@
+# Executable
+vpnmasq
+
+# Log Files
+*.log
+
+# VSCode
+.vscode
